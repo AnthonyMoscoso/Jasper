@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Conectores/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/itext-2.1.7.js4.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/jackson-annotations-2.1.4.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/jackson-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/jackson-databind-2.1.4.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/jasperreports-6.2.0.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/jasperreports-fonts-6.2.0.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/jasperreports-javaflow-6.2.0.jar"/>
+	<classpathentry kind="lib" path="Conectores/ConectoresJasper620/tools.jar"/>
+	<classpathentry kind="lib" path="H:/programas/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
